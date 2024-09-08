@@ -1,0 +1,79 @@
+h1{
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+header{
+    color: yellow;
+    width: 1840px;
+    height: 720px;
+
+    margin-top: 20px;
+    margin-right:2px ;
+    border: 10px dashed red;
+    padding: 20px;
+    background: url(./image/el-chalten-8223303_1920.jpg) 0 55%/cover no-repeat border-box yellow padding-box;
+    /* color: yellow;
+    background-image: url(./images/el-chalten-8223303_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: 0 55%;
+    background-origin:border-box ;
+    background-size: cover;
+    background-clip: padding-box; */
+
+    /* box-sizing: border-box; */
+    /* background-attachment:fixed; */
+    filter:drop-shadow(0px 20px 15px black);
+    
+}
+
+header p{
+    border: 5px solid orange;
+    padding: 20px 10px;
+    text-align: center;
+    background-color: #1161A0;
+}
+a{
+    color: blue;
+    font-weight: bold;
+}
+a[href="#1123462"]{
+    margin-right: 10px;
+    padding: 20px;
+}
+p[align]{
+
+    
+    color: red;
+    background: url(./image/garrador-resident-evil-4-remake-hd-wallpaper-uhdpaper.com-134@1@k.jpg) 0 15%/cover border-box 
+    yellow fixed ;
+    background-color: black;
+    border: 5px double red;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+span.niinja{
+    background: fixed;
+    margin-right: 2%;
+}
+.center-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.center{
+    background: linear-gradient(to right,rgb(34, 34, 162,.4) 20%, rgb(130, 15, 15,.7) 80%) , url(./image/wepik-game-ninja-logo-20230809194411fwF5.png) 0 10px/cover fixed;
+    height: 620px;
+}
+div p[align].niinja2{
+    color: yellow;
+    background: url(./image/peakpx.jpg) 0 1%/cover border-box 
+    yellow fixed ;
+    background-color: black;
+    border: 5px double rgb(130, 15, 15);
+    padding: 20px;
+    margin: 20px;
+}
